@@ -1,5 +1,7 @@
 # kbot
 devops application from scratch
+You can find the bot https://t.me/devopsnix_bot
+If you want to create your own bot follow these instructions.
 1. After cloning the project you need to open the Telegram and find BotFather.
 2. You need to enter a new name for your bot. Please write a command /newbot. You must choose a username for your bot.
 3. Next let’s choose a username for your bot. It must end in ‘bot’. Like this, for example: TetrisBot or tetris_bot. BotFather will get a token API.
