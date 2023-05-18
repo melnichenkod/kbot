@@ -1,7 +1,6 @@
 FROM golang:1.19 as builder
 WORKDIR /go/src/app
 COPY . .
-RUN go get
 RUN make build
 FROM scratch
 WORKDIR /
